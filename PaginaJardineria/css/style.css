@@ -1,0 +1,12 @@
+
+.clase{
+    text-align: right;
+}
+
+#caja{
+  width: 300px;
+  border: 15px solid rgb(106, 204, 106);
+  padding: 20px;
+  margin: 20px;
+}
+
